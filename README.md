@@ -2,7 +2,7 @@
 
 Welcome to my experimental GitHub repository! 🚀...................
 
-This repository is dedicated to testing various GitHub features, exploring automation workflows, and tracking achievement badges.
+This repository is dedicated to testing various GitHub features, exploring automation workflows, and tracking achievement badges.........
 
 ### 📌 Features to Test:
 * **GitHub Achievements:** Unlocking cool profile badges like Quickdraw, Pair Programmer, and YOLO.
